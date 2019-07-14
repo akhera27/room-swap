@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188409229595",
+    "firebase_url": "https://room-swap-bdd23.firebaseio.com",
+    "project_id": "room-swap-bdd23",
+    "storage_bucket": "room-swap-bdd23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188409229595:android:960bfb8a0bc7ef3a",
+        "android_client_info": {
+          "package_name": "design.studio.aryankhera.room_swap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188409229595-ge29t8hvi0kron2276p6h8dvu7nsaar3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbHw04Qlx11PeB9q_sd6KbLda0FSTAhFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188409229595-ge29t8hvi0kron2276p6h8dvu7nsaar3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
