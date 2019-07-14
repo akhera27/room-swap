@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # room_swap
 
 Find a match to swap your room.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+=======
+# room-swap
+An android application based on flutter framework for students who were randomly allotted rooms against their preference during the Hostel allotment process. It helped the students to find a match with whom they could swap their rooms. 
+>>>>>>> e2f0c60aede5eba342dd925eea1bc09c19cf7420
